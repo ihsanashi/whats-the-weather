@@ -32,3 +32,4 @@
 /Users/ihsanashi/Documents/development/whats-the-weather/web-api/obj/Debug/net9.0/web-api.genruntimeconfig.cache
 /Users/ihsanashi/Documents/development/whats-the-weather/web-api/obj/Debug/net9.0/ref/web-api.dll
 /Users/ihsanashi/Documents/development/whats-the-weather/web-api/bin/Debug/net9.0/Scalar.AspNetCore.dll
+/Users/ihsanashi/Documents/development/whats-the-weather/web-api/obj/Debug/net9.0/web-api.sourcelink.json
